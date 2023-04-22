@@ -20,28 +20,28 @@ body {
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #58f1ef;
+    background-color: #efa940;
 }
 
 #page1 {
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #58f1ef;
+    background-color: #efa940;
 }
 
 #page2 {
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #58f1ef;
+    background-color: #efa940;
 }
 
 #page3 {
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #58f1ef;
+    background-color: #efa940; 
 }
 
 canvas {
@@ -132,7 +132,7 @@ canvas {
 #page1>#right-text {
     position: absolute;
     top: 30%;
-    left: 10%;
+    left: 20%;
 }
 
 #page1>#right-text>h3 {
